@@ -14,6 +14,9 @@
   As with every journey, it all starts with the first steps! At the moment, I'm focusing on front-end development, learning the basic applications of HTML, CSS, and JavaScript!<br>
   In the long term, I intend to transition to the Back-end area, with the primary objective of <strong>becoming a Full-stack</strong> developer<br>
 </p1>
+<a 
+href="https://app.daily.dev/icnneto"><img src="https://api.daily.dev/devcards/v2/KWbosp2jVATh9PS4k9Upl.png?r=n0q&type=default" width="356" alt="Israel Nunes's Dev Card"/>
+</a>
 
 <h2>Get in Touch</h2>
 <a href="https://linkedin.com/in/israel-nunes-825968144" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
