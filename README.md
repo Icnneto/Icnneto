@@ -1,22 +1,39 @@
-<a href="https://linkedin.com/in/israel-nunes-825968144" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+# 👋 Welcome to my GitHub! I'm Israel Nunes
 
-## Welcome to my Github, I'm Israel!
-I'm a software development student based in Florianópolis, Brazil, with a background in Public Administration at UDESC! 
-Feel free to explore my projects, and I'd appreciate any feedback you have to offer. If you're interested in exchanging experiences, please don't hesitate to contact me.
+I'm a software development student based in Florianópolis, Brazil, currently studying Full-Stack Development at **FIAP**. With a background in **Public Administration** from **UDESC**, I bring a mix of analytical thinking and user-centered perspective to the tech world.
 
-## Detailed Information
-- **Name**: Israel Nunes
-- **Age**: 27
-- **Living in**: Florianópolis - SC, Brazil
-- **Stack**: Tailwind - Javascript - Node.js - SQL
-- **Currently Learning**: Full-Stack Development at FIAP 
+Currently, I focus on building clean and purposeful web applications. You’ll find in this profile my journey from learning fundamentals to creating real-world solutions.
 
-## Curiosities about me
-- I had the opportunity to live in Dublin, Ireland for 8 months! During that time, I traveled to 9 different countries and visited over 20 cities!
-- I love learning new things—whether they're tech-related or not. Feel free to teach me something new!
-- I feel a deep connection to the ocean—maybe because I live on an island with over 42 beaches! Surfing is one of my biggest passions.
+## Tech Stack
 
-<br>
-<a 
-href="https://app.daily.dev/icnneto"><img src="https://api.daily.dev/devcards/v2/KWbosp2jVATh9PS4k9Upl.png?r=n0q&type=default" width="356" alt="Israel Nunes's Dev Card"/>
-</a>
+- **Front-end**: HTML, CSS, Tailwind CSS, JavaScript  
+- **Back-end**: Node.js, Express.js, MongoDB, SQL  
+- **AI & Automation**: Puppeteer (stealth), LLM integration, Scrapy  
+- **Other Tools**: Git & GitHub, Postman, Firebase, Render, Vercel
+
+I'm also exploring how to use **LLMs and AI-powered tools** to process unstructured data and provide useful insights in projects like newsletters, dashboards, and RAG systems.
+
+## Featured Projects
+
+- 🎯 [**Know Your Fan**](https://github.com/Icnneto/furia_tech-challenge): Tech Challenge project for FURIA eSports, combining form inputs, web scraping (X.com), MongoDB, and AI analysis to understand eSports fan profiles.
+- 📚 [**MyProjectDictionary**](https://github.com/Icnneto/myProjectDictionary): Users create their own project dictionaries, storing terms and definitions in a Firebase Database, with Algolia search planned.
+- 📬 [**Fomenta**](https://fomenta.com.br/): A system to scrape and centralize public funding opportunities, helping researchers and small businesses find relevant editais.
+
+Explore my [GitHub repositories](https://github.com/Icnneto?tab=repositories) to see these and other learning-driven projects in action.
+
+## 📌 About Me
+
+- Currently studying at **FIAP** and transitioning into tech with a purpose: build tools that simplify processes and empower people.
+- I lived in **Dublin, Ireland** for 8 months and traveled to 9 countries and over 20 cities—cultural exposure that expanded how I solve problems and communicate.
+- I have a deep connection with the ocean (living on an island with 42+ beaches helps) and surfing is one of my greatest passions.
+- I love learning—tech-related or not—and enjoy sharing knowledge and collaborating on new ideas.
+
+## 🤝 Let's Connect
+
+I'm always open to feedback, collaboration, and new opportunities. Whether you're a fellow dev, recruiter, or curious about one of my projects, don't hesitate to reach out!
+
+**Email**: israelnetonunes@gmail.com  
+**Location**: Florianópolis, SC – Brazil  
+[**LinkedIn**](https://www.linkedin.com/in/icnneto/)
+
+_Thanks for stopping by — let's build something great together!_
