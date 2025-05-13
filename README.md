@@ -4,6 +4,8 @@ I'm a software development student based in Florianópolis, Brazil, currently st
 
 Currently, I focus on building clean and purposeful web applications. You’ll find in this profile my journey from learning fundamentals to creating real-world solutions.
 
+Florianópolis, SC – Brazil | israelnetonunes@gmail.com | [**LinkedIn**](https://www.linkedin.com/in/icnneto/)
+
 ## Tech Stack
 
 - **Front-end**: HTML, CSS, Tailwind CSS, JavaScript  
@@ -31,9 +33,5 @@ Explore my [GitHub repositories](https://github.com/Icnneto?tab=repositories) to
 ## 🤝 Let's Connect
 
 I'm always open to feedback, collaboration, and new opportunities. Whether you're a fellow dev, recruiter, or curious about one of my projects, don't hesitate to reach out!
-
-**Email**: israelnetonunes@gmail.com  
-**Location**: Florianópolis, SC – Brazil  
-[**LinkedIn**](https://www.linkedin.com/in/icnneto/)
 
 _Thanks for stopping by — let's build something great together!_
