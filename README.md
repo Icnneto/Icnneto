@@ -19,7 +19,7 @@ I'm also exploring how to use **LLMs and AI-powered tools** to process unstructu
 
 - 🎯 [**Know Your Fan**](https://github.com/Icnneto/furia_tech-challenge): Tech Challenge project for FURIA eSports, combining form inputs, web scraping (X.com), MongoDB, and AI analysis to understand eSports fan profiles.
 - 📚 [**MyProjectDictionary**](https://github.com/Icnneto/myProjectDictionary): Users create their own project dictionaries, storing terms and definitions in a Firebase Database, with Algolia search planned.
-- 📬 [**Fomenta**](https://fomenta.com.br/): A system to scrape and centralize public funding opportunities, helping researchers and small businesses find relevant editais.
+- 📬 [**Fomenta**](https://fomenta.com.br/): Currently building a system to scrape and centralize public funding opportunities, helping researchers and small businesses find relevant editais. Designed with an Event-Driven Architecture and studying to deploy the whole application on AWS
 
 Explore my [GitHub repositories](https://github.com/Icnneto?tab=repositories) to see these and other learning-driven projects in action.
 
