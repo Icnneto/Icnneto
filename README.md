@@ -17,9 +17,11 @@ I'm also exploring how to use **LLMs and AI-powered tools** to process unstructu
 
 ## Featured Projects
 
-- 🎯 [**Know Your Fan**](https://github.com/Icnneto/furia_tech-challenge): Tech Challenge project for FURIA eSports, combining form inputs, web scraping (X.com), MongoDB, and AI analysis to understand eSports fan profiles.
-- 📚 [**MyProjectDictionary**](https://github.com/Icnneto/myProjectDictionary): Users create their own project dictionaries, storing terms and definitions in a Firebase Database, with Algolia search planned.
-- 📬 [**Fomenta**](https://fomenta.com.br/): Currently building a system to scrape and centralize public funding opportunities, helping researchers and small businesses find relevant editais. Designed with an Event-Driven Architecture and studying to deploy the whole application on AWS
+- **Fomenta**: Currently building a platform to streamline researchers' access to funding grants. As the sole developer, I'm responsible for the entire system architecture and implementation. The project uses Puppeteer (Node.js) for data scraping and orchestrates a complex pipeline with LangChain to extract, validate, and enrich information: an initial LLM extracts data from HTML snippets, and a second LLM summarizes the content of the grants (PDFs) after their conversion to markdown via LlamaParse. The architecture is built on AWS microservices, with automated deployment using AWS SAM (Serverless Application Model).
+*Technologies*: Node.js, Puppeteer, LangChain, LlamaParse, AWS (SAM, Lambda, SQS, EventBridge).
+
+- **[SwellGuide](https://www.swellguide.com.br)**: An innovative solution that translates the complexity of weather forecasts into a daily newsletter with sea condition analysis in natural language. As the creator and sole developer, I implemented an automated workflow in Python, orchestrated with LangChain, to consume data from weather APIs, process this information through an LLM to generate insights, and manage the sending of email campaigns. I was responsible for the entire project lifecycle, from system architecture and back-end/front-end development to infrastructure setup and integrations
+*Technologies*: Python, LangChain, LLM APIs, Mailchimp API, HTML, Tailwind, Javascript.
 
 Explore my [GitHub repositories](https://github.com/Icnneto?tab=repositories) to see these and other learning-driven projects in action.
 
