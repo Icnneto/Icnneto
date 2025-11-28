@@ -4,7 +4,7 @@ I'm a software development student based in Florianópolis, Brazil, currently st
 
 Currently, I focus on building clean and purposeful web applications. You’ll find in this profile my journey from learning fundamentals to creating real-world solutions.
 
-Florianópolis, SC – Brazil | israelnetonunes@gmail.com | [**LinkedIn**](https://www.linkedin.com/in/icnneto/)
+Florianópolis, SC – Brazil | [**Portfolio**](https://www.israelnunes.com) | [**LinkedIn**](https://www.linkedin.com/in/icnneto/)
 
 ## Tech Stack
 
