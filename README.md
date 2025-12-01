@@ -8,10 +8,12 @@ Florianópolis, SC – Brazil | [**Portfolio**](https://www.israelnunes.com) | [
 
 ## Tech Stack
 
-- **Front-end**: HTML, CSS, Tailwind CSS, JavaScript  
-- **Back-end**: Node.js, Express.js, MongoDB, SQL  
-- **AI & Automation**: Puppeteer (stealth), LLM integration, Scrapy  
-- **Other Tools**: Git & GitHub, Postman, Firebase, Render, Vercel
+- **Front-end**: JavaScript, React, Next.js, Tailwind CSS
+- **Back-end**: Node.js, TypeScript, Python 
+- **AI & Automation**: LangChain, LLMs, Puppeteer, API integrations
+- **Cloud**: AWS (Lambda, SQS, EventBridge, SAM), Cloudflare Pages
+- **Databases**: PostgreSQL, MongoDB
+- **Version control**: Git, Github
 
 I'm also exploring how to use **LLMs and AI-powered tools** to process unstructured data and provide useful insights in projects like newsletters, dashboards, and RAG systems.
 
