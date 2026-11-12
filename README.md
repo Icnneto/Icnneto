@@ -1,41 +1,51 @@
-# 👋 Welcome to my GitHub! I'm Israel Nunes
+# Israel Nunes
 
-I'm a software development student based in Florianópolis, Brazil, currently studying Full-Stack Development at **FIAP**. With a background in **Public Administration** from **UDESC**, I bring a mix of analytical thinking and user-centered perspective to the tech world.
+Full Stack Engineer building AI products and multi-agent systems. Florianópolis, Brazil.
 
-Currently, I focus on building clean and purposeful web applications. You’ll find in this profile my journey from learning fundamentals to creating real-world solutions.
+I'm the cofounder of [RBBT](https://rbbtlab.ai), where we build multi-agent systems for real operations, and of [Fomenta](https://fomenta.com.br), an AI platform that helps researchers find and access funding. Most of my work sits where the AI layer meets production: data pipelines, orchestration and guardrails. I build end to end, from interface to infrastructure, and I like problems where the hard part is everything around the model.
 
-Florianópolis, SC – Brazil | [**Portfolio**](https://www.israelnunes.com) | [**LinkedIn**](https://www.linkedin.com/in/icnneto/)
+[Website](https://israelnunes.com) · [Blog](https://israelnunes.com/blog) · [LinkedIn](https://www.linkedin.com/in/icnneto/)
 
-## Tech Stack
+## Now
 
-- **Front-end**: JavaScript, React, Next.js, Tailwind CSS
-- **Back-end**: Node.js, TypeScript, Python 
-- **AI & Automation**: LangChain, LLMs, Puppeteer, API integrations
-- **Cloud**: AWS (Lambda, SQS, EventBridge, SAM), Cloudflare Pages
-- **Databases**: PostgreSQL, MongoDB
-- **Version control**: Git, Github
+- Building agent systems at RBBT and scaling Fomenta.
+- Thinking about how autonomous agents earn trust: observability, clear boundaries, and knowing when a person should take over the decision.
 
-I'm also exploring how to use **LLMs and AI-powered tools** to process unstructured data and provide useful insights in projects like newsletters, dashboards, and RAG systems.
+## Selected work
 
-## Featured Projects
+**[RBBT — Sales](https://rbbtlab.ai/sales)** · Cofounder  
+A multi-agent AI sales system that qualifies customers, builds carts and closes orders over WhatsApp and web chat, handing off to a person only when needed. Four least-privilege agents (routing, selling, checkout, post-sale), a platform-agnostic core with Shopify and Nuvemshop adapters, fail-closed human escalation and continuous agent evaluation.  
+`TypeScript` `Anthropic Claude` `PostgreSQL` `WhatsApp Cloud API` `Shopify` `Nuvemshop`
 
-- **[Fomenta](https://www.fomenta.com.br)**: Currently building a platform to streamline researchers' access to funding grants. As the sole developer, I'm responsible for the entire system architecture and implementation. The project uses Puppeteer (Node.js) for data scraping and orchestrates a complex pipeline with LangChain to extract, validate, and enrich information: an initial LLM extracts data from HTML snippets, and a second LLM summarizes the content of the grants (PDFs) after their conversion to markdown via LlamaParse. The architecture is built on AWS microservices, with automated deployment using AWS SAM (Serverless Application Model).
-*Technologies*: Node.js, Puppeteer, LangChain, LlamaParse, AWS (SAM, Lambda, SQS, EventBridge).
+**[Fomenta](https://fomenta.com.br)** · Cofounder & CTO · Programa Nascer (FAPESC)  
+An end-to-end SaaS that finds public research funding for Brazilian researchers and matches each opportunity to the researcher's profile, with architecture from ingestion to payments. A nine-Lambda, event-driven ingestion pipeline over SQS with LLM-based parsing and normalization; dead-letter queues and CloudWatch alarms for failure containment; an async semantic matching service with prompt-versioned caching; Stripe subscriptions and usage quotas.  
+`Next.js` `TypeScript` `AWS Lambda` `SQS` `DynamoDB` `Supabase` `LangChain` `Puppeteer` `Stripe`
 
-- **[SwellGuide](https://www.swellguide.com.br)**: An innovative solution that translates the complexity of weather forecasts into a daily newsletter with sea condition analysis in natural language. As the creator and sole developer, I implemented an automated workflow in Python, orchestrated with LangChain, to consume data from weather APIs, process this information through an LLM to generate insights, and manage the sending of email campaigns. I was responsible for the entire project lifecycle, from system architecture and back-end/front-end development to infrastructure setup and integrations
-*Technologies*: Python, LangChain, LLM APIs, Mailchimp API, HTML, Tailwind, Javascript.
+**SwellGuide** · paused  
+A daily newsletter that turned raw weather data into plain-language surf forecasts. I designed, launched and grew it to 50+ daily active users, with a modular design for adding surf spots and an automated Node.js + LangChain workflow that ran the data through an LLM and dispatched the campaigns. [How I built it →](https://israelnunes.com/blog/swellGuide)  
+`Node.js` `LangChain` `AWS` `Tailwind CSS`
 
-Explore my [GitHub repositories](https://github.com/Icnneto?tab=repositories) to see these and other learning-driven projects in action.
+## Writing
 
-## 📌 About Me
+- [Agents Are the Easy Part: The Harness Behind an AI Sales Team](https://israelnunes.com/blog/salesHarness) — Nov 2026
+- [From Idea to Production: How I Built SwellGuide End-to-End](https://israelnunes.com/blog/swellGuide) — Jan 2026
+- System Design Basics: [Caching](https://israelnunes.com/blog/caching) · [Database Sharding](https://israelnunes.com/blog/databaseSharding)
 
-- Currently studying at **FIAP** and transitioning into tech with a purpose: build tools that simplify processes and empower people.
-- I lived in **Dublin, Ireland** for 8 months and traveled to 9 countries and over 20 cities—cultural exposure that expanded how I solve problems and communicate.
-- I have a deep connection with the ocean (living on an island with 42+ beaches helps) and surfing is one of my greatest passions.
-- I love learning—tech-related or not—and enjoy sharing knowledge and collaborating on new ideas.
+## Stack
 
-## 🤝 Let's Connect
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python |
+| **AI** | Anthropic Claude, LangChain, multi-agent orchestration, RAG, evals |
+| **Front-end** | React, Next.js, Tailwind CSS |
+| **Back-end & data** | Node.js, PostgreSQL, DynamoDB, Supabase, MongoDB |
+| **Cloud** | AWS (Lambda, SQS, EventBridge, DynamoDB, CloudWatch, SAM), Cloudflare Pages |
+| **Integrations** | WhatsApp Cloud API, Shopify, Nuvemshop, Stripe, Puppeteer |
 
-I'm always open to feedback, collaboration, and new opportunities. Whether you're a fellow dev, recruiter, or curious about one of my projects, don't hesitate to reach out!
+## Background
 
-_Thanks for stopping by — let's build something great together!_
+- Full-Stack Development at FIAP, after a background in Public Administration at UDESC. That is where my analytical, user-centered way of looking at problems comes from.
+- Eight months living in Dublin, nine countries, 20+ cities.
+- Florianópolis is an island with 42+ beaches, and surfing is how I reset.
+
+Open to conversations about agents in production, AI product engineering and new collaborations. The fastest way is [LinkedIn](https://www.linkedin.com/in/icnneto/) or [my website](https://israelnunes.com).
